@@ -1,0 +1,27 @@
+_repo: Daybreak-in-Turkey-Second-Edition_61583
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barton, James L. (James Levi)
+    alias: Barton, James Levi
+    birthdate: 1855
+    deathdate: 1936
+    gutenberg_agent_id: '51500'
+    url: http://www.gutenberg.org/2009/agents/51500
+description: ''
+gutenberg_issued: '2020-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Turkey'
+- GITenberg
+title: 'Daybreak in Turkey
+
+  Second Edition'
+url: http://www.gutenberg.org/ebooks/61583
